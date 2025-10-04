@@ -1,2 +1,1 @@
-// Update from API
-console.log('testd');
+Hello from Git
